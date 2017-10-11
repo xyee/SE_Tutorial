@@ -4,9 +4,13 @@ using namespace std;
 
 int main(){
 cout << "Hello World";
+<<<<<<< HEAD
 cout << "Hotfix - Add few more endl";
 cout << endl << endl;
 
 
+=======
+cout << "What are you doing?";
+>>>>>>> main
 return 0;
 }
