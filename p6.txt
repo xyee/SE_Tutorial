@@ -1,2 +1,7 @@
 Hello
 You are currently working in your Portfolio6
+
+--Adding more lines--
+1. Version control is good, haha,said Juan.
+2. Write message for each commit, said Joseph.
+3. Don't forget to configure your name and email, said James.
